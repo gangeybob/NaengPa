@@ -1,15 +1,9 @@
 <div align="center"><h1> 냉장고 파먹기:snowflake: </div>
 <br>
 
-![KakaoTalk_Photo_2022-07-25-21-56-38](https://user-images.githubusercontent.com/109858852/180783180-41ff451c-a898-4781-b9ec-a8631d397c8a.png)
-오래된 재료는 비우고 행복은 채우는 **냉장고 파먹기**
+<a href="http://naengpa.netlify.app"> ![KakaoTalk_Photo_2022-07-25-21-56-38](https://user-images.githubusercontent.com/109858852/180783180-41ff451c-a898-4781-b9ec-a8631d397c8a.png)</a>
+오래된 재료는 비우고 행복은 채우는 **냉장고 파먹기**:snowflake:
 
-<br>
-
-## :sparkles: 프로젝트 사용기술
-
-- React
-- Spring Boot
 
 <br>
 
@@ -40,14 +34,8 @@
 <br>
 
 ## :rocket: 기술 스택
+![기술스택](https://user-images.githubusercontent.com/109858852/180799855-1234293a-cba4-4d95-a662-a26740ef806e.png)
 
-* ### Back-End
-
-![스크린샷 2022-07-25 오후 8 18 09](https://user-images.githubusercontent.com/50781066/180765903-dd732372-76c8-4a75-b3dc-960fee9bc3fb.png)
-- Spring Boot
-- Gradle
-- Spring Data Jpa
-- MariaDB
 
 <br>
 
@@ -103,4 +91,4 @@
 |                                차리                               |                              벨                           | 
 | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
 |                [@parkchanyung](https://github.com/parkchanyung)                 |              [@jonghyunhub](https://github.com/jonghyunhub)                |
-| <img src="https://avatars.githubusercontent.com/jieunjenchoi" width="100"> | <img src="https://avatars.githubusercontent.com/jonghyunhub" width="100"> |
+| <img src="https://avatars.githubusercontent.com/parkchanyung" width="100"> | <img src="https://avatars.githubusercontent.com/jonghyunhub" width="100"> |
