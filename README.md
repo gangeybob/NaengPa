@@ -34,7 +34,7 @@
 <br>
 
 ## :rocket: 기술 스택
-![기술스택](https://user-images.githubusercontent.com/109858852/180799855-1234293a-cba4-4d95-a662-a26740ef806e.png)
+![Screen Shot 2022-07-26 at 5 28 37 PM](https://user-images.githubusercontent.com/109858852/180960768-29fff582-9727-4582-9c75-425095162027.png)
 
 
 <br>
