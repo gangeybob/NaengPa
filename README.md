@@ -20,7 +20,7 @@
 
 ## :fire: 프로젝트 목표
 
-- HTML5, CSS3, Javascript, React, Spring Boot, Spring Data Jpa, Gradle, MariaDB 등의 기술을 활용하여 프로젝트에 임합니다.
+- HTML5, CSS3, Javascript, React, Spring Boot, Mybatis, Gradle, MariaDB 등의 기술을 활용하여 프로젝트에 임합니다.
 - Gather, Figjam, Slack 등을 사용하여 협업을 경험합니다.
 - 유저에게 도움이 되는 서비스가 무엇인지 고민해보고, 아이디어를 직접 구현합니다.
 - 디자인부터 개발, 배포의 과정까지 겪으며 간접적으로 서비스의 런칭을 경험합니다.
@@ -41,7 +41,7 @@
 
 ## :mag: DB Model
 
-![스크린샷 2022-07-25 오후 7 32 24](https://user-images.githubusercontent.com/50781066/180759625-2c3a84c4-0c20-42b2-b6ca-a73a7e63b034.png)
+![erd](https://user-images.githubusercontent.com/50781066/180960750-0173714d-34c0-4f2e-b26e-c73fe769413b.png)
 
 <br>
 
